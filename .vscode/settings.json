@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\code\\funk1",
+            "binaryPath": "c:\\code\\funk1\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
